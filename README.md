@@ -1,2 +1,2 @@
 ### Introduce
-Orion is a project that a spring boot .
+Orion is a spring boot project.
