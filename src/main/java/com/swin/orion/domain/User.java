@@ -3,7 +3,6 @@ package com.swin.orion.domain;
 import java.util.Date;
 import javax.persistence.*;
 
-@Table(name = "user")
 public class User {
     /**
      * 用户id自增
